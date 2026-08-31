@@ -1,0 +1,5 @@
+03:25:24 [ERROR] outdated pattern: dwPlantedC4
+03:25:24 [ERROR] outdated pattern: dwSensitivity_sensitivity
+03:25:24 [ERROR] outdated pattern: dwNetworkGameClient_isBackgroundMap
+03:25:25 [ERROR] outdated pattern: dwSoundSystem
+03:25:40 [WARN] 29 Pattern(s) matched more than once in their .text section — consider tightening
